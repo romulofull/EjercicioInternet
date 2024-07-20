@@ -17,7 +17,7 @@ public class UsuariosController {
      usuario.setApellido("Car");
      usuario.setEmail("romulo.castro");
      usuario.setTelefono("romulo");
-     usuario.setPassword("carlos");
+     usuario.setPassword("carlos"
      return usuario;
 }
 
